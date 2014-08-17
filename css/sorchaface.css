@@ -1,0 +1,16 @@
+.quizy-memorygame .mgcard-show{
+	width:256px;
+	height:192px;
+	background: purple;
+	font-family: Helvetica;
+	color: white;
+	border-radius: 6px;
+}
+
+h1 {
+	text-align:center;
+}
+
+body {
+	padding: ;
+}
