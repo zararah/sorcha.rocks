@@ -1,0 +1,28 @@
+.quizy-memorygame .mgcard-show{
+	width:256px;
+	height:192px;
+	background: purple;
+	font-family: Helvetica;
+	color: white;
+	border-radius: 6px;
+}
+
+h1 {
+	text-align:center;
+}
+
+h3 {
+	color: purple;
+}
+
+h3 small {
+	color: purple;
+}
+
+body {
+	padding: ;
+	background-image: url('../img/transparentmapedit.png');
+    background-repeat: repeat;
+    background-position: top left;
+    font-size: 18px;
+}
